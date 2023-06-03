@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # create "out" folder
 # create "src" folder
 # init empty git repository
